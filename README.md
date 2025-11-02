@@ -1,11 +1,9 @@
-# 🎨 Painting with AI
-
----
+# Painting with AI
 
 ## Summary
-**Painting with AI** is an artificial intelligence project that explores how machines can generate creative artworks based on user prompts, emotions, and visual concepts.  
-The project demonstrates how AI can analyze artistic patterns, learn from famous styles, and produce new, unique digital paintings.  
-This project was developed as part of the **Building AI course** by **Reaktor** and **the University of Helsinki**.
+Painting with AI is an artificial intelligence project that explores how machines can generate creative artworks based on user prompts, emotions, and visual concepts.  
+It demonstrates how AI can analyze artistic patterns, learn from famous styles, and produce new, unique digital paintings.  
+This project was developed as part of the Building AI course by Reaktor and the University of Helsinki.
 
 ---
 
