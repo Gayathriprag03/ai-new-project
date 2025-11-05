@@ -1,5 +1,9 @@
 # Painting with AI
 
+<p align="center">
+  <img src="ai_new_project.png" alt="Painting with AI Banner" width="700"/>
+</p>
+
 ## Summary
 Painting with AI is an artificial intelligence project that explores how machines can generate creative artworks based on user prompts, emotions, and visual concepts.  
 It demonstrates how AI can analyze artistic patterns, learn from famous styles, and produce new, unique digital paintings.  
